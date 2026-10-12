@@ -1,4 +1,4 @@
-# My DevOps Practice Portfolio
+# DevOps Practice Portfolio
 
 This repository records my hands-on work through a series of DevOps lab exercises. Each exercise focuses on a practical tool or workflow, from running applications in Kubernetes to automating builds with Jenkins.
 
